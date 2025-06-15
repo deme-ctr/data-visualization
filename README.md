@@ -104,6 +104,11 @@ Integration of updated **2024 WHO TB data** can:
 ## 📸 Dashboard Preview
 
 > A screenshot of the final dashboard showing trends, KPIs, and controls can be inserted here.
+![Dashboard Screenshot](images/photo1.png)
+![Dashboard Screenshot](images/photo2.png)
+![Dashboard Screenshot](images/photo3.png)
+
+
 
 ---
 
